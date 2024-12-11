@@ -10,13 +10,13 @@ const testimonials = [
     {
         name: "Jane Smith",
         role: "CTO, DataDrive",
-        content: "[Your Name] delivered beyond our expectations. Their ability to translate complex data into actionable insights significantly improved our decision-making process.",
+        content: "Gourav Biswas delivered beyond our expectations. His ability to translate complex data into actionable insights significantly improved our decision-making process.",
         image: "/placeholder.svg?height=100&width=100"
     },
     {
         name: "Alex Johnson",
         role: "Product Manager, WebSolutions",
-        content: "I was impressed by [Your Name]'s attention to detail and problem-solving skills. They consistently delivered high-quality work and were a pleasure to work with.",
+        content: "I was impressed by Gourav Biswas's attention to detail and problem-solving skills. He consistently delivered high-quality work and were a pleasure to work with.",
         image: "/placeholder.svg?height=100&width=100"
     }
 ]
