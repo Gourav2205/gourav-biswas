@@ -50,11 +50,9 @@ const Navbar = () => {
                 <div className="md:hidden" id="mobile-menu">
                     <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                         <Link href="#about" className="text-gray-300 hover:text-purple-400 block px-3 py-2 rounded-md text-base font-medium">About</Link>
-                        <Link href="/projects" className="text-gray-300 hover:text-purple-400 block px-3 py-2 rounded-md text-base font-medium">All Projects</Link>
                         <Link href="#projects" className="text-gray-300 hover:text-purple-400 block px-3 py-2 rounded-md text-base font-medium">Projects</Link>
                         <Link href="#testimonials" className="text-gray-300 hover:text-purple-400 block px-3 py-2 rounded-md text-base font-medium">Testimonials</Link>
-                        <Link href="#contact" className="text-gray-300 hover:text-purple-400 block px-3 py-2 rounded-md text-base font-medium">Contact</Link>
-                        <Link href="#work-with-me" className="text-gray-300 hover:text-purple-400 block px-3 py-2 rounded-md text-base font-medium">Work With Me</Link>
+                        <Link href="#work-with-me" className="text-gray-300 hover:text-purple-400 block px-3 py-2 rounded-md text-base font-medium">Contact</Link>
                     </div>
                 </div>
             )}
