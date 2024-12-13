@@ -2,25 +2,25 @@ import ProjectCard from './ProjectCard'
 
 const projects = [
     {
-        title: "E-commerce Platform",
+        title: "Storage and File Sharing Platform",
+        description: "A storage management and file sharing platform that lets users effortlessly upload, organize, and share files.",
+        image: "/images/project2.jpg",
+        tags: ["NextJS", "AppWrite", "React", "TailwindCSS", "ShadCN", "TypeScript"],
+        link: "https://github.com/Gourav2205/ShareIt"
+    },
+    {
+        title: "Movie Recommendation System",
         description: "A full-stack e-commerce solution with React, Node.js, and MongoDB.",
         image: "/images/project1.jpg",
-        tags: ["React", "Node.js", "MongoDB", "Express"],
-        link: "https://github.com/yourusername/project1"
+        tags: ["Python", "Numpy", "Pandas", "Scikit-Learn"],
+        link: "https://github.com/Gourav2205/Movie-Recommendation-System",
     },
     {
-        title: "Data Visualization Dashboard",
-        description: "Interactive data visualization tool using D3.js and Python backend.",
-        image: "/images/project2.jpg",
-        tags: ["D3.js", "Python", "Flask", "PostgreSQL"],
-        link: "https://github.com/yourusername/project2"
-    },
-    {
-        title: "Machine Learning Model for Predictive Maintenance",
-        description: "Developed a machine learning model to predict equipment failures in manufacturing.",
+        title: "A Project Management System",
+        description: "A Next.js Project Management App for quick task tracking, team collaboration, and efficient performance across all devices.",
         image: "/images/project3.jpg",
-        tags: ["Python", "Scikit-learn", "TensorFlow", "Pandas"],
-        link: "https://github.com/yourusername/project3"
+        tags: ["NextJS", "React", "TailwindCSS", "TypeScript"],
+        link: "https://github.com/Gourav2205/ProjectManagement",
     },
     {
         title: "Whatsapp Clone With Video Calling Function",
